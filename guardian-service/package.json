@@ -39,7 +39,7 @@
     "mongodb": "^4.2.1",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.41",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "logger-helper": "file:../logger-helper"
   },
   "description": "",
